@@ -9,7 +9,7 @@
 
 module.exports = function(grunt) {
 
-  grunt.registerMultiTask('inject_dependencies', 'Create grunt-include-source tags to HTML', function() {
+  grunt.registerMultiTask('injectDependencies', 'Create grunt-include-source tags to HTML', function() {
     for (var app in this.data) {
       if (this.data.hasOwnProperty(app)) {
         grunt.file.write(

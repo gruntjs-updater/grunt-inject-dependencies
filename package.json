@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ggit@github.com:ukupat/grunt-inject-dependencies.git"
+    "url": "git@github.com:ukupat/grunt-inject-dependencies.git"
   },
   "bugs": {
     "url": "https://github.com/ukupat/grunt-inject-dependencies/issues"
